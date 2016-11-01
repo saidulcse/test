@@ -1,5 +1,5 @@
 {
-    "name": "google/recaptcha",
+    "name": "saidulcse/test",
     "description": "Client library for reCAPTCHA, a free service that protect websites from spam and abuse.",
     "type": "library",
     "keywords": ["recaptcha", "captcha", "spam", "abuse"],
@@ -7,7 +7,7 @@
     "license": "BSD-3-Clause",
     "support": {
         "forum": "https://groups.google.com/forum/#!forum/recaptcha",
-        "source": "https://github.com/google/recaptcha"
+        "source": "https://github.com/saidulcse/test"
     },
     "require": {
         "php": ">=5.3.2"
